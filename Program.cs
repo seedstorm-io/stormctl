@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Figgle;
+using System;
 
 namespace stormctl
 {
@@ -6,7 +7,8 @@ namespace stormctl
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.Write(FiggleFonts.Standard.Render("SeedStorm.io"));
+            Console.WriteLine(" stormctl is the command line tool to manage your seedstorm.io account.");
         }
     }
 }
