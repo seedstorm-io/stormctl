@@ -6,6 +6,8 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="CommandLine.Core.CommandLineUtils" Version="1.1.0" />
+    <PackageReference Include="CommandLine.Core.Hosting" Version="1.1.0" />
     <PackageReference Include="Figgle" Version="0.3.0" />
   </ItemGroup>
 
