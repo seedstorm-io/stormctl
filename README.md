@@ -1,4 +1,4 @@
-# SeedStorm.io Command Line Tool (CLI)
+# SeedStorm.io Command Line Tool (stormctl)
 
 `stormctl` is the official seedstorm.io tool to manage your nodes/masternode, self-hosted or no.
 
